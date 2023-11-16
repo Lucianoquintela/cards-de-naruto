@@ -1,0 +1,70 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-image:url(https://i.postimg.cc/yYdfzXtD/images.jpg);
+    
+}
+
+h2{
+    color:white;
+    text-align:center;
+    margin-top:50px;
+    font-size:30px;
+}
+
+.cardPersonagem{
+    background-color:#40E0D0;
+    width:90%;
+    height:480px;    
+    margin:auto;
+    margin-top:10px;
+    border-radius:10px;
+    box-shadow: 7px 5px 5px rgb(11 149, 149);
+}
+    
+    
+ .setas{    
+    background-color:#40E0D0;
+    width:90%;
+    height:50px;  
+    margin:auto;   
+    margin-top:20px;    
+    border-radius:10px;
+    box-shadow: 7px 5px 5px rgb(11 149, 149);    
+    justify-content:center;
+    align-items:center;
+    display:flex;
+    gap:100px;
+    overflow:hidden;
+ }
+    
+h3{
+      text-align:center;
+      padding-top:10px;
+}  
+    
+button{
+       background:none;    
+       border:none;
+  
+}
+ 
+button:hover{
+     background-color:#197d5a;
+}   
+    
+    
+.imagem{
+   display:block;
+   margin:auto;       
+   height:270px;
+}
+    
+    
+p{        
+  max-width:320px;        
+  margin:auto;     
+}
